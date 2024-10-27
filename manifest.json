@@ -1,0 +1,13 @@
+{
+    "name": "Zodiac Checker",
+    "version": "0.0.1",
+    "manifest_version": 3,
+    "action": {
+        "default_popup": "zodiac.html",
+        "default_icon": "assets/logo.png"
+    },
+    "icons": {
+        "128": "assets/logo.png"
+    },
+    "permissions": ["activeTab"]
+}
